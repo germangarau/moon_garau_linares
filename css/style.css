@@ -2,4 +2,141 @@
 
 .body{
     font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    border: 1px solid #000000;
+}
+
+
+
+.barra-navegacion{
+    text-align: center;
+    background-color: #03045e;
+    border: 1px solid #000000;
+    
+}
+
+.barra-navegacion:hover{
+    background-color: #0096c7;
+}
+
+.background{
+    background-image: url('../img/moon.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.navbar{
+    padding-top: 0px;
+}
+
+.letras{
+    color: #ffffff;
+    font-size: 16px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.hola3{
+    border: 1px solid #ececec;
+}
+
+.foto1{
+    background-image: url('../img/moon1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.foto2{
+    background-image: url('../img/moon2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.foto3{
+    background-image: url('../img/moon3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.foto4{
+    background-image: url('../img/moon4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.foto5{
+    background-image: url('../img/moon5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.foto6{
+    background-image: url('../img/moon6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.foto7{
+    background-image: url('../img/moon7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.foto8{
+    background-image: url('../img/moon8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.foto9{
+    background-image: url('../img/moon9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.footer{
+    text-align: center;
+    background-color: #03045e;
+}
+
+.row > *{
+    padding: 0;
+    margin:0;
+}
+
+.display{
+    display: flex;
+    justify-content: center;
+}
+
+.hijo{
+    align-self: center;
 }
